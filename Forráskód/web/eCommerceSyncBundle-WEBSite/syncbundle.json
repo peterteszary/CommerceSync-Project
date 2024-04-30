@@ -1,0 +1,98 @@
+{
+  "bundleinfo": [
+    {
+      "pname": "eCommerceSyncBundle",
+      "tech": "WordPress alapú online kereskedelmi platform.",
+      "description": "A WordPress egy nyílt forráskódú tartalomkezelő rendszer amely mára rendkivül elterjedt. ",
+      "descriptionsmall": "2023-ban a weboldalak 43,2% ezt használja.",
+      "whoocommerce": "A WordPress weboldalunkat a WhooCommerce bővítmény segítségével webárúház tulajdonságokkal tudjuk felruházni.",
+      "action": "Miért jött létre?",
+      "section": "Sok vállalkozást magánszemély működtet melyek online kerekskedelemmelfoglalkoznak. Ezek a személyek gyakran semmi előképzetséggel nem rendelkeznek a webprogramozás területén.Számukra szerettünk volna segítséget nyújtani evvel az egyedi és egyszerűen kezelhető csomaggal.",
+      "dekstopapp": "Asztali alkalmazás",
+      "dekstopappdesc": "Az asztali alkalmazás egy egyszerűen kezelhető C# nyelven írt szoftver ami windows 8 vagy frisebb kiadású windows operációs rendszeren kényelmesen használható. Itt a felhasználó a termékeket tudja felvinni, illetve módosítani. A belépéshez szükséges felhasználói adatokat elsőként a WordPress adminisztrációs felületén kell létrehozni.",
+      "info": "Asztali alkalmazás letőltése szükséges a készülékünkre.",
+      "webapp": "WEB alkalmazás",
+      "wpplugin": "WordPress bővítmény",
+      "wpplugindesc": "A WordPress bővítmény felel közvetlenül az adatok szinkronizálásáért, illetve eztartalmazná a cron beállításokat is, amelyek az adatok szinkronizálásának “automatizációjáért“,pontosabban az időbeni beállításaiért felel.",
+      "wptheme": "WordPress téma",
+      "wpthemedesc": "A téma HTML, CSS(BootStrap), JavaScript, PHP, JQuery alapokon fekszik. Illetve egy adatbázis is szükséges a működéshez (MariaDB). Ezt szinkronizálja a bővítmény a desktop applikációval.",
+      "id": "bf76"
+    }
+  ],
+  "teaminfo": [
+    {
+      "bossname": "Tesszáry Péter",
+      "bossintro": "WordPress weboldalak fejlesztésével foglalkozom, fontos számomra az ügyfelekkel való jó kapcsolatot és a minőség minden minden lehetséges döntésben közösen részt venni ezáltal is biztosítani azt hogy a végcél mindeni számára megfelelő legyen.",
+      "developername1": "Pernyész Dániel",
+      "developerintro1": "Kezdő programozóként a Java programozási nyelv területén  kezdtem a munkám mivel ez a programozási nyelv rengeteg lehetőséget biztosít , platformfüggetlen és széles körben elterjedt természetesen van hátránya is mégpedig a nehezen tanulhatóság.",
+      "developername2": "Bagi Péter",
+      "developerintro2": "Junior fejlesztőként a webprogramozás területén indultam el ez az irány számomra a látványosság miatt érdekes, ismerem a JavaScript keretrendszerekben rejlő lehetőségeket és úgy gondolom hogy mindig a minőségi új technikákat kell használni.",
+      "id": "39cb"
+    }
+  ],
+  "databaseinfo": [
+    {
+      "dbinfo": "Adatbázisinormáció",
+      "dbdesc": "A MariaDB nyílt forráskódú projekt, amelyet a közösség és az üzleti szereplők egyaránt támogatnak. Az adatbázis-kezelő rendszer nyílt forráskódú, tehát bárki szabadon felhasználhatja, módosíthatja és terjesztheti a kódját. Az adatbázis-kezelő rendszer könnyen telepíthető, és támogatja a legtöbb szabványos SQL parancsot és a legtöbb adatbázis-alkalmazást.",
+      "dbdeschidden": "A MariaDB fő célja az, hogy egy olyan adatbázis-kezelő rendszert biztosítson, amely könnyen telepíthető, használható és skálázható, miközben javítja a teljesítményt és a biztonságot. Az adatbázis-kezelő rendszer atómi, konzisztens, elszigetelt és tartózkodó elveknek megfelelően működik, ami azt jelenti, hogy biztosítja az adatok konzisztenciáját és az adatok állandóságát.",
+      "dbprop1": "Skálázhatóság",
+      "dbprop1desc": "A MariaDB egyszerűen skálázható, ami azt jelenti, hogy nagyobb adatbázisokkal is megbirkózik, és nagyobb terhelést is elbír.",
+      "dbprop2desc": "Az adatbázis-kezelő rendszer számos biztonsági funkcióval rendelkezik, például a titkosítással, amely lehetővé teszi az adatok védelmét a külső támadásokkal szemben.",
+      "dbprop3": "Teljesítmény",
+      "dbprop3desc": "A MariaDB gyors és hatékony működést kínál, ami lehetővé teszi a nagyobb adatmennyiségek hatékony kezelését és feldolgozását.",
+      "dbprop4": "Rugalmasság",
+      "dbprop4desc": "Az adatbázis-kezelő rendszer rugalmas és könnyen testreszabható, így az egyedi igényekhez is alkalmazkodni tud.",
+      "mariadb": "A MariaDB több platformon is elérhető, többek között Linux, Windows és macOS rendszereken is használható. Az adatbázis-kezelő rendszer számos funkcióval rendelkezik, amelyek közül a legfontosabbak a következők:",
+      "id": "6232"
+    }
+  ],
+  "helpinfo": [
+    {
+      "messages": "Kérdés esetén bátran írj nekünk!",
+      "messagessmall": "Válaszidő: 3-5 nap.",
+      "messagesboss": "Írok neki: Tesszáry Péter",
+      "messagesdev1": "Írok neki: Pernyész Dániel",
+      "messagesdev2": "Írok neki: Bagi Péter",
+      "id": "5b19"
+    }
+  ],
+  "downloadinfo": [
+    {
+      "download": "Mielött letöltöd az alkalmazást nézd meg ezt a pár infót.",
+      "capacity": "Gépigény",
+      "ram": "RAM",
+      "ssd": "SSD",
+      "minram": "Minimum: 8 giga",
+      "minssd": "Minimum: 512 giga",
+      "choice": "Letöltés",
+      "id": "eda8"
+    }
+  ],
+  "choiceos": [
+    {
+      "choice": "A megfelelő operációs rendszer kiválasztása után",
+      "choicestrong": "visszakerülsz a főoldalra a letöltés automatikusan elindul!",
+      "windows11": "Letöltés Windows 11",
+      "windows10": "Letöltés Windows 10",
+      "windows8": "Letöltés Windows 8",
+      "id": "2a4b"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "0a38",
+      "email": "bsze2tespet@vasvari.org",
+      "review": "Csak MS így ezt kihagyom"
+    },
+    {
+      "id": "39fb",
+      "email": "bsze2perdan@vasvari.org",
+      "review": "Drága."
+    },
+    {
+      "id": "f8b3",
+      "email": "bsze2bagpet@vasvari.org",
+      "review": "Megéri az árát."
+    }
+  ]
+}
